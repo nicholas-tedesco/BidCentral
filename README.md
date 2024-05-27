@@ -13,8 +13,8 @@ This project was created as part of coursework at Georgia Tech. To avoid honor c
 On launching the application, users may either log in via an existing account or choose to create a new account. 
 
 <p float="left">
-  <img src="/images/login.png" width="100" />
-  <img src="/images/register.png" width="100" /> 
+  <img src="/images/login.png" height=400px width="100" />
+  <img src="/images/register.png" height=400px width="100" /> 
 </p>
 
 
