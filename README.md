@@ -12,7 +12,9 @@ This project was created as part of coursework at Georgia Tech. To avoid honor c
 
 On launching the application, users may either log in via an existing account or choose to create a new account. 
 
-<img src="images/login.png"> <img src="images/register.png">
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](images/login.png)  |  ![](images/register.png)
 
 
 
