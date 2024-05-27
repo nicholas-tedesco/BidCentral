@@ -12,6 +12,8 @@ This project was created as part of coursework at Georgia Tech. To avoid potenti
 
 ### Main Menu
 
+<img src="/images/admin-menu.png">
+
 ### Search Active Auctions 
 
 ### View Active Auction 
