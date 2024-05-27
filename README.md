@@ -1,1 +1,1 @@
-"# BidCentral"  
+# BidCentral 
