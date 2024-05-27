@@ -10,6 +10,8 @@ This project was created as part of coursework at Georgia Tech. To avoid potenti
 
 ## Demo
 
+### Main Menu
+
 On launching the application, users may either log in via an existing account or choose to create a new account. 
 
 <p aligin="center" float="left">
