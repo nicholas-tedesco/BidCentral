@@ -1,6 +1,6 @@
 # BidCentral 
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,docker)](github.com/nicholas-tedesco/BidCentral)
+[My Skills](https://skillicons.dev/icons?i=py,js,html,css,docker)
 
 ## Overview
 
