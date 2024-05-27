@@ -4,8 +4,10 @@
 
 ## Overview
 
-BidCentral is a full-stack application that simulates an online auction platform. The main functionalities of the 
+BidCentral is a full-stack application that simulates an online auction platform. 
 
 This project was created as part of coursework at Georgia Tech. To avoid honor code violations, 
 
-## Components
+## Demo
+
+
