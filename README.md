@@ -1,6 +1,4 @@
-# BidCentral 
-
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,docker)]
+# BidCentral [![My Skills](https://skillicons.dev/icons?i=py,js,html,css,docker)]
 
 ## Overview
 
