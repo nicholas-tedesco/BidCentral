@@ -18,11 +18,11 @@ This project was created as part of coursework at Georgia Tech. To avoid potenti
 
 <img src="/images/search.png">
 
-### View Active Auction 
+### View Item for Sale
 
 <img src="/images/active-item.png">
 
-### List Item for Sale 
+### List Item
 
 ### View Finished Auctions 
 
