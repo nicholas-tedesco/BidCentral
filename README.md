@@ -34,7 +34,7 @@ Users fill out a form to list items for sale. Some fields are required, while ot
 
 <img src="/images/list-item.png">
 
-### View Finished Auctions 
+<!-- ### View Finished Auctions 
 
 Users may also view items which have already completed. Items may finish in one of three ways: 
 - successful: item was purchased
@@ -43,7 +43,7 @@ Users may also view items which have already completed. Items may finish in one 
 
 <img src="/images/finished-auctions.png">
 
-### Rate Purchased Item 
+### Rate Purchased Item -->
 
 
 
