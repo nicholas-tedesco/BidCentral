@@ -26,7 +26,7 @@ Users may search for items using a series of criteria. Search results contain br
 
 An active auction page consists of detailed item information, bid history, and the option for users to bid on the current item. Users may also view ratings for previously completed auctions involving the same item type. Administrators have the additional ability to cancel the auction.
 
-<img src="/images/admin-active-item.png">
+<img src="/images/active-auction-details.png">
 
 ### List Item
 
@@ -34,16 +34,20 @@ Users fill out a form to list items for sale. Some fields are required, while ot
 
 <img src="/images/list-item.png">
 
-<!-- ### View Finished Auctions 
+### View Finished Auctions 
 
 Users may also view items which have already completed. Items may finish in one of three ways: 
 - successful: item was purchased
 - unsuccessful: bid criteria was not met at auction conclusion
 - cancelled: administrator cancelled the auction
 
-<img src="/images/finished-auctions.png">
+<img src="/images/completed-auction-results.png">
 
-### Rate Purchased Item -->
+### View Details for Finished Auction 
+
+<img src="/images/completed-auction-details.png">
+
+### Rate Purchased Item 
 
 
 
