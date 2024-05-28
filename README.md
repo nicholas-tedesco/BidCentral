@@ -30,7 +30,18 @@ An active auction page consists of detailed item information, bid history, and t
 
 ### List Item
 
+Users fill out a form to list items for sale. Some fields are required, while others are optional. 
+
+<img src="/images/list-item.png">
+
 ### View Finished Auctions 
+
+Users may also view items which have already completed. Items may finish in one of three ways: 
+- successful: item was purchased
+- unsuccessful: bid criteria was not met at auction conclusion
+- cancelled: administrator cancelled the auction
+
+<img src="/images/finished-auctions.png">
 
 ### Rate Purchased Item 
 
