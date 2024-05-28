@@ -1,6 +1,6 @@
 # BidCentral 
 
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,js,html,css,docker&theme=light)](#)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,postgres,js,html,css,docker&theme=light)](#)
 
 ## Overview
 
