@@ -20,7 +20,7 @@ This project was created as part of coursework at Georgia Tech. To avoid potenti
 
 ### View Active Auction 
 
-<img src="/images/active-auction.png">
+<img src="/images/active-item.png">
 
 ### List Item for Sale 
 
