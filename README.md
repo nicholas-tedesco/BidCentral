@@ -41,11 +41,11 @@ Users may also view items which have already completed. Items may finish in one 
 - unsuccessful: bid criteria was not met at auction conclusion
 - cancelled: administrator cancelled the auction
 
-<img src="/images/completed-auction-results.png">
+<img src="/images/finished-auction-results.png">
 
 ### View Details for Finished Auction 
 
 After clicking an item on the finished auction results page, the user may view the item's detailed information and bid history. 
 
-<img src="/images/completed-auction-details.png">
+<img src="/images/finished-auction-details.png">
 
