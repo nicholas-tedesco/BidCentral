@@ -49,6 +49,3 @@ After clicking an item on the finished auction results page, the user may view t
 
 <img src="/images/completed-auction-details.png">
 
-
-
-
