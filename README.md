@@ -12,13 +12,19 @@ This project was created as part of coursework at Georgia Tech. To avoid potenti
 
 ### Main Menu
 
+Following registration and successful login, the user is presented with a customized main menu depending on user details and administrative status.
+
 <img src="/images/admin-menu.png">
 
 ### Search for Items 
 
+Users may search for items using a series of criteria. Search results contain brief snapshots of item bid information, as well as links to each item's auction page. 
+
 <img src="/images/search.png">
 
 ### View Item for Sale
+
+An item's active auction page consists of detailed item information, bid history, and the option for users to bid on the current item. Users may also view ratings for previously completed auctions involving the same item type.
 
 <img src="/images/active-item.png">
 
