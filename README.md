@@ -24,9 +24,9 @@ Users may search for items using a series of criteria. Search results contain br
 
 ### View Item for Sale
 
-An item's active auction page consists of detailed item information, bid history, and the option for users to bid on the current item. Users may also view ratings for previously completed auctions involving the same item type.
+An active auction page consists of detailed item information, bid history, and the option for users to bid on the current item. Users may also view ratings for previously completed auctions involving the same item type. Administrators have the additional ability to cancel the auction.
 
-<img src="/images/active-item.png">
+<img src="/images/admin-active-item.png">
 
 ### List Item
 
