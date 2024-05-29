@@ -12,7 +12,7 @@ This project was created as part of coursework at Georgia Tech. To avoid potenti
 
 Following registration and successful login, the user is presented with a customized main menu depending on user details and administrative status.
 
-<img src="/images/admin-menu.png">
+<kbd><img src="/images/admin-menu.png"></kbd>
 
 ### Search for Items 
 
