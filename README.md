@@ -45,5 +45,5 @@ Users may also view items which have already completed. Items may finish in one 
 
 After clicking an item on the finished auction results page, the user may view the item's detailed information and bid history. 
 
-<img src="/images/finished-auction-details.png"></kbd>
+<kbd><img src="/images/finished-auction-details.png"></kbd>
 
